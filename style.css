@@ -1,0 +1,470 @@
+body{
+    margin:0%
+}
+.navbar{
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+    padding: 2% 0%;
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem
+}
+.logo{
+    font-size: 2rem!important;
+}
+.navbar i{
+    float :right;
+    font-size: 1.4rem;
+    color:rgba(0,0,0,0.7)
+}
+.streamx{
+    padding:5%;
+    background-image:url('https://edge.rode.com/images/page/1/modules/8063/StreamerX-Header-right.jpg');
+    min-height: 90vh;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.streamx>div{
+    width: 40%;
+    text-align: center;
+    top:20%;
+    left:5%;
+}
+.streamx a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+}
+.streamx span{
+    background-color:#ad9970 ;
+    color:white;
+    padding:2%;
+    margin-left: 3%;
+    border-radius:25px;
+    font-size:1.3rem ;
+
+}
+.RODECASTERDUO{
+    background-image:  url('https://edge.rode.com/images/page/1/modules/8061/DUO-Change-over-01.jpg');
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    padding:5%;
+    min-height:108vh;
+}
+.RODECASTERDUO>div{
+    width:40%;
+    text-align:center;
+    top:20%;
+    padding-left:45%;
+    color:white;
+    align-items:center;
+    justify-content: center;
+    padding-top:15%;
+}
+.RODECASTERDUO p{
+    color:darkgray;
+    font-size:1.34rem;
+    margin-right:5%;
+    width:132%;
+}
+.RODECASTERDUO a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+    font-style:bold;
+}
+.RODECASTERDUO span{
+    background-color:#ad9970;
+    color:white;
+    padding:2%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.3rem;
+    font-style:bold;
+}
+.BACKPACK{
+    padding:5%; 
+    background-image: url('https://edge.rode.com/images/page/1/modules/7785/rode-rcp-backpack-insitu-city-web-banner-6406x2336-rgb-1920x700-8c89d38a.jpg');
+    min-height: 90vh;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.BACKPACK>div{
+    width:40%;
+    text-align:center;
+    top:30%;
+    padding-right:50%;
+    color:white;
+    align-items:center;
+    justify-content: center;
+    padding-top: 15%;
+    font-size: 1.09rem;
+}
+.BACKPACK p{
+    color:darkgray;
+    font-size:1.34rem;
+    width:135%;
+}
+.BACKPACK a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+    font-style:bold;
+}
+.BACKPACK span{
+    background-color:#ad9970;
+    color:white;
+    padding:2%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.3rem;
+    font-style:bold;
+}
+.PODMICUSB{
+    padding:5%;  
+    background-image: url('https://edge.rode.com/images/page/1/modules/8062/Podmic-Header-Change-over.jpg');
+    min-height: 90vh;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.PODMICUSB>div{
+    width:43%;
+    text-align:center;
+    top:30%;
+    padding-left:50%;
+    align-items:center;
+    justify-content: center;
+    padding-top: 15%;
+    font-size: 1.29rem;
+}
+.PODMICUSB p{
+    color:darkgray;
+    font-size:1.26rem;
+}
+.PODMICUSB a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+}
+.PODMICUSB span{
+    background-color:#ad9970;
+    color:white;
+    padding:2%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.3rem;
+}
+.WIRELESSME{
+    padding:5%; 
+    background-image: url('https://edge.rode.com/images/page/1/modules/7728/rode-wireless-me-insitu-pastel-livingroom-mobile-sefie-with-iPhone-sc21-6040x2200-rgb-1921x700-8c89d38 (1).jpg');
+    min-height: 90vh;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.WIRELESSME>div{
+    width:40%;
+    text-align:center;
+    top:30%;
+    padding-right:50%;
+    align-items:center;
+    justify-content: center;
+    padding-top: 15%;
+    font-size: 1.4rem;
+}
+.WIRELESSME p{
+    color:darkgray;
+    font-size:1.38rem;
+    width:135%;
+}
+.WIRELESSME a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+    font-style:bold;
+}
+.WIRELESSME span{
+    background-color:#ad9970;
+    color:white;
+    padding:2%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.3rem;
+    font-style:bold;
+}
+.NT1-5thgeneration{
+    background-image: url('https://edge.rode.com/images/page/1/modules/7727/rode-nt1-5g-silver-home-studio-profile-webbanner-13473x4912-rgb-1921x700-8c89d38.jpg');
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    padding:3%;
+    min-height:108vh;
+}
+.NT1-5thgeneration>div{
+    width:60%;
+    text-align:center;
+    top:20%;
+    padding-left:45%;
+    align-items:center;
+    justify-content: center;
+    padding-top:20%;
+    font-size: 1.4rem;
+    color:white;
+}
+.NT1-5thgeneration p{
+    color:darkgray;
+    font-size:1.38rem;
+    width:90%;
+}
+.NT1-5thgeneration a{
+    text-decoration: none;
+    font-size: 1.38rem;
+    color:#ad9970;
+}
+.NT1-5thgeneration span{
+    background-color:#ad9970;
+    color:white;
+    padding:3%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.2rem;
+}
+.NTH-100M{
+    padding:5%; 
+    background-image: url('https://edge.rode.com/images/page/1/modules/7160/rode-nth100m-home-header-1920x700-rgb (1).jpg');
+    min-height: 90vh;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.NTH-100M>div{
+    width:45%;
+    text-align:center;
+    top:30%;
+    padding-right:60%;
+    align-items:center;
+    justify-content: center;
+    padding-top: 15%;
+    font-size: 1.09rem;
+    color:white;
+}
+.NTH-100M p{
+    color:darkgray;
+    font-size:1.15rem;
+    width:100%;
+    padding:2%;
+}
+.NTH-100M a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+    padding:5%
+}
+.NTH-100M span{
+    background-color:#ad9970;
+    color:white;
+    padding:2%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.3rem;
+}
+.RODEBLOG{
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    padding:3%;
+    min-height:90vh;
+    font-size: 1.2rem;
+    width:55%;
+.box{
+    display: flex;
+    justify-content:space-between;
+}
+}
+.RODEBLOG>div{
+    .block1{
+        text-align:center;
+        align-items:center;
+        justify-content:space-evenly;
+        padding-bottom: 10%;
+        font-size:1.09rem;
+        color:black;
+        padding-top: 3%;
+        padding-right:5%;
+    }
+}
+.RODEBLOG P{
+    color:darkgray;
+    font-size:0.9rem;
+    justify-content:flex-start;
+    padding: 2%;
+    width:200%;
+}
+.RODEBLOG>div{
+    .block2{
+    text-align:center;
+    justify-content:space-evenly;
+    font-size:0.9rem;
+    color:black;
+    width: 60%;
+    left:5%;
+    padding-top:2%;
+    }
+}
+.RODEBLOG P{
+    color:darkgray;
+    font-size:1.16rem;
+    justify-content:flex-start;
+    align-content:flex-start;
+    width: 90%;
+}
+.RODEBLOG a{
+    background-color:#ad9970;
+    color:white;
+    padding:1%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.2rem;
+    text-decoration: none;
+}
+.RODE9{
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    padding-top:0%;
+    min-height:50vh;
+    font-size: 1.8rem;
+    width:60%;
+.box{
+    display: flex;
+    justify-content:space-between;
+}
+}
+.RODE9>div{
+    .block1{
+        text-align:center;
+        align-items:center;
+        justify-content:space-evenly;
+        padding-bottom: 10%;
+        font-size:1.28rem;
+        color:black;
+        padding-top:1%;
+    }
+}
+.RODE9 P{
+    color:darkgray;
+    font-size:1.0rem;
+    justify-content:flex-end;
+    width:110%;
+}
+.RODE9>div{
+    .block2{
+    text-align:center;
+    justify-content:space-evenly;
+    font-size:1.1rem;
+    color:black;
+    width: 60%;
+    padding-left:5%;
+    padding-top:3%;
+    }
+}
+.RODE9 P{
+    color:darkgray;
+    font-size:1.38rem;
+    justify-content:flex-start;
+    align-content:flex-start;
+    width: 105%;
+    padding-left: 2%;
+}
+.RODE9 a{
+    background-color:#ad9970;
+    color:white;
+    padding:1%;
+    margin-left:3%;
+    border-radius:25px;
+    font-size:1.2rem;
+    text-decoration: none;
+}
+.RODERANGE{
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    min-height:50vh;
+    font-size: 1.8rem;
+    width:40%;
+    .h1{
+        color:gray;
+        font-size:1.2rem;
+    }
+   .flex-container{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-between;
+ }
+}
+.RODERANGE>div{
+     .block1{
+        background-position:center;
+        background-size:auto;
+        position:relative;
+}
+.block2{
+    padding:5%;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.block3{
+    padding:5%;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+.block4{
+    padding:5%;
+    background-position:center;
+    background-size: cover;
+    position:relative;
+}
+}
+body{
+    margin:0%;
+    .box{
+        display: flex;
+        justify-content:space-around;
+    }
+    }
+.navbar{
+    display:flex;
+    align-items:center;
+    justify-content: space-evenly;
+    padding: 2% 0%;
+}
+.navbar{
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+}
+.navbar div{
+    padding:10%;
+    width:40%;
+    font-size:1.2rem;
+    color:black;
+}
+.navbar span{
+    float :right;
+    background-color:#ad9970 ;
+    color:white;
+    padding:2%;
+    margin-left: 3%;
+    border-radius:25px;
+    font-size:1.3rem ;
+}
+
